@@ -1,4 +1,4 @@
-# jsregesp for LuaSnip on Windows
+# jsregexp for LuaSnip on Windows
 
 Loaded with Lua5.1 and luarocks.
 
